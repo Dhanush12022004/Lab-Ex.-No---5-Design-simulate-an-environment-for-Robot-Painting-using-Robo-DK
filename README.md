@@ -197,8 +197,8 @@ Home target
 
 ## Program:
 ```
-Developed by: GEORGE PAUL TONY .C 
-RegisterNumber: 212222040043
+Developed by: DHANUSH.G.R. 
+RegisterNumber: 212221040038
  ```
  ```
  
